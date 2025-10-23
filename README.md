@@ -5,8 +5,11 @@
 
 	⁠*Important:* This software is for educational and legal purposes only. Use it only with your own wallets and funds. Any attempt to use it for unauthorized access to others' funds or fraud is illegal and unacceptable.
 
-•⁠  ⁠*Software Website:* [btcflashing.com](https://btcflashing.com)
-•⁠  ⁠*Demo Software:* [demo.btcflashing.com](https://demo.btcflashing.com)
+•⁠  ⁠*Software Website:* [btcflashing.com](https://btcflashing.com)<br>
+•⁠  ⁠*Demo Software:* [demo.btcflashing.com](https://demo.btcflashing.com)<br>
+Contact
+Whatsapp : https://wa.me/447452853787
+Telegram : https://t.me/singhtechnologies
 
 ---
 
